@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Manju
+ *
+ */
+module EmailAdministration {
+}
